@@ -1,0 +1,14 @@
+{
+  "name": "airdrop",
+  "version": "1.0.0",
+  "description": "CNFT airdropper w/ Mesh",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hazryder",
+  "license": "ISC",
+  "dependencies": {
+    "@meshsdk/core": "^1.5.4"
+  }
+}
