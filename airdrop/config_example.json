@@ -1,7 +1,11 @@
 {
-    "BLOCKFROST_API_KEY": "",
-    "WALLET_SEED": [],
-    "TOKEN_ID": "",
-    "AMOUNT": "",
-    "RECIPIENTS": []
+    "blockfrostApiKey": "",
+    "walletSeed": [],
+    "tokens": [
+        {
+            "unit": "",
+            "quantity": ""
+        }
+    ],
+    "recipients": []
 }
