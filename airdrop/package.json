@@ -9,6 +9,7 @@
   "author": "hazryder",
   "license": "ISC",
   "dependencies": {
+    "@blockfrost/blockfrost-js": "^5.4.0",
     "@meshsdk/core": "^1.5.4",
     "fs": "^0.0.1-security"
   }
